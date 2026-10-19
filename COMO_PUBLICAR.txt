@@ -1,0 +1,9 @@
+MODUTECH - NOVO LAYOUT
+
+1. No GitHub, abra o repositorio modutech-site.
+2. Envie os arquivos e pastas DE DENTRO desta pasta para a raiz do repositorio (nao envie apenas o ZIP).
+3. Substitua app.py, templates/index.html e static/style.css e inclua static/anuncios/*.webp.
+4. Salve com Commit changes. O Render deve publicar automaticamente.
+5. Confira https://modutech-site.onrender.com/
+
+ATENCAO: imagens contêm preços de anúncios antigos; confirme preços e disponibilidade.
